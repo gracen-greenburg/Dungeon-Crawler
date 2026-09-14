@@ -10,5 +10,6 @@
     "terminal.integrated.env.windows": {
         "JAVA_HOME": "C:\\Users\\ggbur\\.jdk\\jdk-25.0.2",
         "Path": "C:\\Users\\ggbur\\.jdk\\jdk-25.0.2\\bin;C:\\Users\\ggbur\\.maven\\maven-3.9.16\\bin;${env:Path}"
-    }
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
